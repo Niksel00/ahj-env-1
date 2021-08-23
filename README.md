@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x6s4g073yh09kuff?svg=true)](https://ci.appveyor.com/project/Niksel00/ahj-env-1-l7smg)
 
 # Webpack5
 
