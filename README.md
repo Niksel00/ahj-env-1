@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/x6s4g073yh09kuff?svg=true)](https://ci.appveyor.com/project/Niksel00/ahj-env-1-l7smg)
 
+[GitHub Pages](https://niksel00.github.io/ahj-env-1/)
+
 # Webpack5
 
 [Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
