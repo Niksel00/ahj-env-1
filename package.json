@@ -40,6 +40,6 @@
     "webpack-dev-server": "^3.11.1",
     "webpack-merge": "^5.8.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {},
+  "repository": "https://github.com/Niksel00/ahj-env-1.git"
 }
